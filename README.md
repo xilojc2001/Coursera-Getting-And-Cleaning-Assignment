@@ -1,7 +1,7 @@
 Getting and Cleaning Data Course Project
 ========================================
 Script Name: run_analysis.R
-Description: This Readme file describe how the ru.analysis.R works.
+Description: This Readme file describe how the run.analysis.R works.
 
     1. You must unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and rename the folder with "data"
     2. The folder data an de ru_analysis.R should be on the current R work directory.
