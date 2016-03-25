@@ -19,7 +19,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
  8. Clean the column names of the subset.  (Remove spaces, symbols and put then on Title format)
  9. Read the activity_labels.txt file from the "./data"" folder and store the data in a variable called *activity*.  
  10. Clean the activity names. 
- 
  11. Transform the values of *mergeLabel* according to the *activity* data frame.  
  12. Combine the *mergeSubject*, *mergeLabel* and *mergeData* by column to get a new data frame.
  13. Properly rename the columns, "subject" and "activity". 
