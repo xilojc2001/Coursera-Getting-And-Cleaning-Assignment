@@ -1,5 +1,5 @@
 Getting and Cleaning Data Course Project
-
+========================================
 Script Name: run_analysis.R
 Description: This Readme file describe how the ru.analysis.R works.
 
